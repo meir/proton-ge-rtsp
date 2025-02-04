@@ -1,0 +1,6 @@
+diff --git a/subprojects/gst-plugins-good/ext/soup/gstsouphttpsrc.c b/subprojects/gst-plugins-good/ext/soup/gstsouphttpsrc.c
+--- a/subprojects/gst-plugins-good/ext/soup/gstsouphttpsrc.c
++++ b/subprojects/gst-plugins-good/ext/soup/gstsouphttpsrc.c
+@@ -201 +201 @@
+-#define DEFAULT_USER_AGENT           "GStreamer souphttpsrc " PACKAGE_VERSION " "
++#define DEFAULT_USER_AGENT           "NSPlayer/12.00.22621.4746 WMFSDK/12.00.22621.4746"

@@ -37,6 +37,7 @@
     echo "GSTREAMER: fix for unclosable invisible wayland opengl windows in taskbar"
     patch -Np1 < ../patches/gstreamer/5509.patch
     patch -Np1 < ../patches/gstreamer/5511.patch
+    patch -Np1 < ../patches/gstreamer/mimic_windows_useragent.patch
     popd
 
 ### END PREP SECTION ###
